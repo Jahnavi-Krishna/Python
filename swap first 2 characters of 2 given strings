@@ -1,0 +1,8 @@
+s1=input("Enter a string: ")
+s2=input("Enter a string: ")
+a=s1[0:2]
+b=s2[2:]
+print(a+b)
+c=s2[0:2]
+d=s1[2:]
+print(c+d)
