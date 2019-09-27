@@ -1,0 +1,4 @@
+s=input("Enter a String: ")
+s = s.replace(s[0], "$", 1)
+print (s)
+//Incomplete
