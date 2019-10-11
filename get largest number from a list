@@ -1,4 +1,4 @@
 s=input("Enter elements of List separated with space: ")
 l=s.split()
 print ("Max value element : "+ max(l[0:]))
-// doesn't consider 3 digit no. as max if there are double digit nos. it only returns the max of the double digit numbers
+# doesn't consider 3 digit no. as max if there are double digit nos. it only returns the max of the double digit numbers
